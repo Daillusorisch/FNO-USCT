@@ -43,3 +43,7 @@ Checkpoints will be saved in the `checkpoints` folder.
 ```bash
 python inference.py -m <model_path> -i <data_path>
 ```
+
+## License
+
+MIT
