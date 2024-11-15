@@ -1,0 +1,9 @@
+[train]
+  batch_size = 1
+  learning_rate = 1e-3
+  num_epochs = 1000
+  data_size = 7200 # change to whatever size your dataset
+  data_dir = "data"
+  ckpt_dir = "ckpt"
+  save_interval = 1
+  eval_interval = 1

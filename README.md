@@ -36,12 +36,12 @@ python train.py
 
 The training process will be saved in the `runs` folder and can be monitoring using tensorboard.
 
-Checkpoints will be saved in the `checkpoints` folder.
+Checkpoints will be saved in the `ckpt` folder.
 
 ## Inference
 
 ```bash
-python inference.py -m <model_path> -i <data_path>
+python inference.py -m <model_path> -k3 <300k_path> -k4 <400k_path> -k5 <500k_path> -o <output_path>
 ```
 
 ## License
