@@ -3,7 +3,7 @@
 An FNO based model builded for speed ​​reconstruction in ultrasound CT imaging. 
 View [My Poster](./poster/poster.pdf)
 
-![](./poster/assets/plot.png)
+![](./poster/assets/plot_small.jpg)
 
 ## Model
 
